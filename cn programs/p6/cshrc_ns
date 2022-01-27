@@ -1,0 +1,8 @@
+setenv PATH /root/ns-allinone-2.34/bin:/root/ns-allinone-2.34/tcl8.4.18/unix:/root/ns-allinone-2.34/tk8.4.18/unix
+setenv LD_LIBRARY_PATH /root/ns-allinone-2.34/otcl-1.13
+setenv LD_LIBRARY_PATH root/ns-allinone-2.34/lib
+setenv TCL_LIBRARY root/ns-allinone-2.34/tcl8.4.18/library
+
+echo ""
+echo "Welcome to NS-2 Simulator"
+echo ""
