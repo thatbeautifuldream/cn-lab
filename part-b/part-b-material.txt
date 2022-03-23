@@ -607,8 +607,7 @@ sending frames is 10
 
 #include<stdio.h>
 
-int
-main ()
+int main ()
 {
   int w, i, f, frames[50];
 
