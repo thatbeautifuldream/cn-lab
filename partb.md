@@ -1,3 +1,5 @@
+Download [📑 PDF](./partb.pdf)
+
 # Bit Stuffing
 
 ```c
