@@ -1,4 +1,4 @@
-# Computer Networks Lab
+![computer-networks-lab](https://socialify.git.ci/thatbeautifuldream/computer-networks-lab/image?description=1&theme=Dark)
 
 > This is the README.md files for the Computer Networks Lab.
 
