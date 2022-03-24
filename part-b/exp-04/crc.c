@@ -1,4 +1,4 @@
-//EXP-4 - CRC-CCITT Polynomial to obtain CRC Code////
+// EXP-4 - CRC-CCITT Polynomial to obtain CRC Code
 // CRC : Cyclic Redundancy Check - data error detection
 // CCITT : Consultative Committee for International Telephony and Telegraphy
 
