@@ -1,3 +1,5 @@
+Download [📑 PDF](./parta.pdf)
+
 # Point to Point
 
 ```awk
